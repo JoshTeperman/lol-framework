@@ -1,0 +1,21 @@
+PATH
+  remote: .
+  specs:
+    lol (0.1.0)
+      rack (~> 2.2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rack (2.2.4)
+    rake (13.0.6)
+
+PLATFORMS
+  x86_64-darwin-19
+
+DEPENDENCIES
+  lol!
+  rake (~> 13.0)
+
+BUNDLED WITH
+   2.2.32
