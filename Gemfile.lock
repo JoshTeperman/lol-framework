@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    lol (0.1.0)
+    lol (0.2.0)
       minitest
       puma (~> 6.0.0)
       rack (~> 2.2)
